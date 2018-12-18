@@ -1,6 +1,6 @@
 # GDG-Hackfest-Missing_Data
-Packages Required:
-Anaconda(py=3.6/3.5)
-Sci-kit learn
-Numpy 
-Pandas
+# Packages Required:
+# 1.Anaconda(py=3.6/3.5)
+# 2.Sci-kit learn
+# 3.Numpy 
+# 4.Pandas
